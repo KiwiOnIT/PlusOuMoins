@@ -25,6 +25,7 @@ int main()
         {
             std::cout << "Bravo !" << std::endl;
             std::cin.ignore();
+            break;
         }
 
         else if (b < a)
